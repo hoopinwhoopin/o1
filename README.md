@@ -1,4 +1,5 @@
 # Image Processing and Measurement Tool
+**Deployment link** :- https://o1-nkwf.vercel.app/
 
 This project is a full-stack application designed to simplify image manipulation, DICOM image parsing, and real-world measurement conversions. It features an intuitive UI and supports both light and dark themes, catering specifically to the needs of medical imaging.
 
@@ -87,15 +88,10 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ---
 
-## 🤝 **Contributing**
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
----
-
 ## 📬 **Contact**
 
 - **Email:** vedantpalekar12@gmail.com
 - **Phone:** +91 7378547807
+  
 
 
